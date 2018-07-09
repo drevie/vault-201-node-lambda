@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "vault-201-node-lambda-executor",
+    "name": "vault-201-node-lambda",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "m72lrbh6pk"
+  }
+}
